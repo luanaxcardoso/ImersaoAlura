@@ -1,4 +1,4 @@
-# _Calculadora de média - Projeto
+Aprendi essa conversão de cotação de Dólar para Real na Imersão Alura
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/imersao-dev/pen/BapaBPO](https://codepen.io/imersao-dev/pen/BapaBPO).
 
+![giphy](https://user-images.githubusercontent.com/112970416/216799299-e82ec34b-46ff-457f-84d9-84cfd44a3ff8.gif)
